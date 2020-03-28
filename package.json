@@ -139,7 +139,7 @@
     "jasmine-core": "~2.5.2",
     "jasmine-marbles": "^0.4.0",
     "jasmine-spec-reporter": "~3.2.0",
-    "jest": "^24.5.0",
+    "jest": "^25.2.3",
     "jest-preset-angular": "^8.0.0",
     "jest-zone-patch": "^0.0.10",
     "karma": "~1.4.1",
